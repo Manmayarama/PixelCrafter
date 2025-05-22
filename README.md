@@ -1,4 +1,4 @@
-# ✨ PixelCrafter
+# <img src="https://github.com/Manmayarama/PixelCrafter/blob/main/client/src/assets/logo_icon.svg" alt="Logo" width="24" style="vertical-align: middle;"/> PixelCrafter
 
 Welcome to **PixelCrafter**, your gateway to AI-generated art!  
 A modern web app built with **React**, **MongoDB**, **Razorpay**, and the magic of **ClipDrop API**. 🎨🤖
@@ -67,7 +67,7 @@ Navigate into the `client` and `server` directories to install their respective 
 
 ```bash
 cd client && npm install      # Install frontend dependencies
-cd server && npm install   # Install backend dependencies
+cd server && npm install      # Install backend dependencies
 ```
 
 ## 🔐 .env Configuration
@@ -99,6 +99,18 @@ From the `client` directory:
 ```bash
 npm run dev
 ```
+---
+
+## 🖼️ Generated Images
+
+Here are a few AI-generated images created using PixelCrafter:
+
+<p align="center">
+  <img src="https://github.com/Manmayarama/PixelCrafter/blob/main/client/src/assets/sample_img_1.png" alt="Generated Art 1" width="250"/>
+  <img src="https://github.com/Manmayarama/PixelCrafter/blob/main/client/src/assets/sample_img_5.png" alt="Generated Art 2" width="250"/>
+  <img src="https://github.com/Manmayarama/PixelCrafter/blob/main/client/src/assets/sample_img_2.png" alt="Generated Art 3" width="250"/>
+</p>
+
 ---
 
 ## 📥 Try It
