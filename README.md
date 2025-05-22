@@ -50,6 +50,26 @@ A modern web app built with **React**, **MongoDB**, **Razorpay**, and the magic 
 
 ---
 
+## 🛠️ Setup Instructions
+
+To get PixelCrafter up and running on your local machine, follow these steps:
+
+### 📥 Clone the repo
+
+```bash
+git clone [https://github.com/Manmayarama/PixelCrafter.git](https://github.com/Manmayarama/PixelCrafter.git)
+cd PixelCrafter
+```
+
+## 📦 Install Dependencies
+
+Navigate into the `client` and `server` directories to install their respective dependencies:
+
+```bash
+cd client && npm install      # Install frontend dependencies
+cd server && npm install   # Install backend dependencies
+```
+
 ## 🔐 .env Configuration
 
 Create a `.env` file in the root of your **backend** directory and add the following:
@@ -61,4 +81,29 @@ CLIPDROP_API="api_key"
 RAZORPAY_KEY_ID="rzp_api_key"
 RAZORPAY_KEY_SECRET="rzp_secret_key"
 CURRENCY=INR
+```
 
+## 🚀 Running the Application
+
+### Start the Backend
+
+From the `server` directory:
+
+```bash
+npm start
+```
+### Start the Frontend
+
+From the `client` directory:
+
+```bash
+npm run dev
+```
+---
+
+## 📥 Try It
+
+Try the live version:  
+🔗 https://pixel-crafter-ai.vercel.app/
+
+---
