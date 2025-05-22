@@ -44,7 +44,7 @@ A modern web app built with **React**, **MongoDB**, **Razorpay**, and the magic 
 
 - **Node.js** v14 or higher  
 - **npm** or **yarn**  
-- **MongoDB** URI (Atlas)  
+- **MongoDB**(Atlas)  
 - **ClipDrop API Key**  
 - **Razorpay Key ID & Secret Key**
 
