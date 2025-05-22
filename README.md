@@ -22,7 +22,7 @@ A modern web app built with **React**, **MongoDB**, **Razorpay**, and the magic 
 1. **Sign Up** → Get 5 credits instantly  
 2. **Enter a prompt** → Let ClipDrop's AI work its magic  
 3. **Download your art** or bask in its generative glory  
-4. **Out of credits?** No worries — top-up instantly with Razorpay!
+4. **Out of credits?** No worries top-up instantly with Razorpay!
 
 ---
 
