@@ -85,7 +85,7 @@ CURRENCY=INR
 
 ## 🚀 Running the Application
 
-### 🖥 Start the Backend
+### 🗄️ Start the Backend
 
 From the `server` directory:
 
