@@ -85,14 +85,14 @@ CURRENCY=INR
 
 ## 🚀 Running the Application
 
-### Start the Backend
+### 🖥 Start the Backend
 
 From the `server` directory:
 
 ```bash
 npm start
 ```
-### Start the Frontend
+### 📱 Start the Frontend
 
 From the `client` directory:
 
