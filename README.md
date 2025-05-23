@@ -57,7 +57,7 @@ To get PixelCrafter up and running on your local machine, follow these steps:
 ### 📥 Clone the repo
 
 ```bash
-git clone [https://github.com/Manmayarama/PixelCrafter.git](https://github.com/Manmayarama/PixelCrafter.git)
+git clone https://github.com/Manmayarama/PixelCrafter.git
 cd PixelCrafter
 ```
 
